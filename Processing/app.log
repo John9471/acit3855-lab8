@@ -1,0 +1,547 @@
+2021-02-18 11:43:01,917 - basicLogger - INFO - started
+2021-02-18 11:43:06,931 - basicLogger - INFO - started
+2021-02-18 11:43:11,919 - basicLogger - INFO - started
+2021-02-18 11:43:16,906 - basicLogger - INFO - started
+2021-02-18 11:43:21,917 - basicLogger - INFO - started
+2021-02-18 11:43:26,933 - basicLogger - INFO - started
+2021-02-18 11:43:31,920 - basicLogger - INFO - started
+2021-02-18 11:43:36,910 - basicLogger - INFO - started
+2021-02-18 11:43:41,915 - basicLogger - INFO - started
+2021-02-18 11:43:46,934 - basicLogger - INFO - started
+2021-02-18 11:43:51,930 - basicLogger - INFO - started
+2021-02-18 11:43:56,924 - basicLogger - INFO - started
+2021-02-18 11:44:01,911 - basicLogger - INFO - started
+2021-02-18 11:44:06,911 - basicLogger - INFO - started
+2021-02-18 11:44:11,921 - basicLogger - INFO - started
+2021-02-18 11:44:16,911 - basicLogger - INFO - started
+2021-02-18 11:44:21,921 - basicLogger - INFO - started
+2021-02-18 11:44:26,916 - basicLogger - INFO - started
+2021-02-18 11:44:31,922 - basicLogger - INFO - started
+2021-02-18 11:44:36,922 - basicLogger - INFO - started
+2021-02-18 11:44:41,920 - basicLogger - INFO - started
+2021-02-18 11:44:46,913 - basicLogger - INFO - started
+2021-02-18 11:44:51,918 - basicLogger - INFO - started
+2021-02-18 11:44:56,922 - basicLogger - INFO - started
+2021-02-18 11:45:01,916 - basicLogger - INFO - started
+2021-02-18 11:45:06,912 - basicLogger - INFO - started
+2021-02-18 11:45:11,917 - basicLogger - INFO - started
+2021-02-18 11:45:16,912 - basicLogger - INFO - started
+2021-02-18 11:45:21,921 - basicLogger - INFO - started
+2021-02-18 11:45:26,916 - basicLogger - INFO - started
+2021-02-18 11:45:31,909 - basicLogger - INFO - started
+2021-02-18 11:45:36,911 - basicLogger - INFO - started
+2021-02-18 11:45:41,908 - basicLogger - INFO - started
+2021-02-18 11:45:46,908 - basicLogger - INFO - started
+2021-02-18 11:45:51,915 - basicLogger - INFO - started
+2021-02-18 11:45:56,908 - basicLogger - INFO - started
+2021-02-18 11:46:01,908 - basicLogger - INFO - started
+2021-02-18 11:46:06,910 - basicLogger - INFO - started
+2021-02-18 11:46:11,923 - basicLogger - INFO - started
+2021-02-18 11:46:16,917 - basicLogger - INFO - started
+2021-02-18 11:46:21,911 - basicLogger - INFO - started
+2021-02-18 11:46:26,921 - basicLogger - INFO - started
+2021-02-18 11:46:31,911 - basicLogger - INFO - started
+2021-02-18 11:46:36,920 - basicLogger - INFO - started
+2021-02-18 11:46:41,921 - basicLogger - INFO - started
+2021-02-18 11:46:46,914 - basicLogger - INFO - started
+2021-02-18 11:46:51,921 - basicLogger - INFO - started
+2021-02-18 11:46:56,910 - basicLogger - INFO - started
+2021-02-18 11:47:01,914 - basicLogger - INFO - started
+2021-02-18 11:47:06,911 - basicLogger - INFO - started
+2021-02-18 11:47:11,911 - basicLogger - INFO - started
+2021-02-18 11:47:16,913 - basicLogger - INFO - started
+2021-02-18 11:47:21,918 - basicLogger - INFO - started
+2021-02-18 11:47:26,918 - basicLogger - INFO - started
+2021-02-18 11:47:31,920 - basicLogger - INFO - started
+2021-02-18 11:47:36,908 - basicLogger - INFO - started
+2021-02-18 11:47:41,915 - basicLogger - INFO - started
+2021-02-18 11:47:46,919 - basicLogger - INFO - started
+2021-02-18 11:47:51,910 - basicLogger - INFO - started
+2021-02-18 11:47:56,914 - basicLogger - INFO - started
+2021-02-18 11:48:01,921 - basicLogger - INFO - started
+2021-02-18 11:48:06,920 - basicLogger - INFO - started
+2021-02-18 11:48:11,907 - basicLogger - INFO - started
+2021-02-18 11:48:16,912 - basicLogger - INFO - started
+2021-02-18 11:48:21,909 - basicLogger - INFO - started
+2021-02-18 11:48:26,911 - basicLogger - INFO - started
+2021-02-18 11:48:31,917 - basicLogger - INFO - started
+2021-02-18 11:48:36,921 - basicLogger - INFO - started
+2021-02-18 11:48:41,914 - basicLogger - INFO - started
+2021-02-18 11:48:46,913 - basicLogger - INFO - started
+2021-02-18 11:48:51,917 - basicLogger - INFO - started
+2021-02-18 11:48:56,921 - basicLogger - INFO - started
+2021-02-18 11:49:01,919 - basicLogger - INFO - started
+2021-02-18 11:49:06,920 - basicLogger - INFO - started
+2021-02-18 11:49:11,919 - basicLogger - INFO - started
+2021-02-18 11:49:16,908 - basicLogger - INFO - started
+2021-02-18 11:49:21,919 - basicLogger - INFO - started
+2021-02-18 11:49:26,905 - basicLogger - INFO - started
+2021-02-18 11:49:31,908 - basicLogger - INFO - started
+2021-02-18 11:49:36,919 - basicLogger - INFO - started
+2021-02-18 11:49:41,913 - basicLogger - INFO - started
+2021-02-18 11:49:46,918 - basicLogger - INFO - started
+2021-02-18 11:49:51,917 - basicLogger - INFO - started
+2021-02-18 11:49:56,909 - basicLogger - INFO - started
+2021-02-18 11:50:01,922 - basicLogger - INFO - started
+2021-02-18 11:50:06,908 - basicLogger - INFO - started
+2021-02-18 11:50:11,916 - basicLogger - INFO - started
+2021-02-18 11:50:16,917 - basicLogger - INFO - started
+2021-02-18 11:50:21,928 - basicLogger - INFO - started
+2021-02-18 12:32:02,331 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:32:06,484 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:32:07,324 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:32:11,451 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:32:12,330 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:32:16,448 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:32:17,332 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:32:21,431 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:32:22,331 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:32:26,450 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:32:27,343 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:32:31,449 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:32:32,336 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:32:36,468 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:32:37,340 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:32:41,466 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:32:42,340 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:32:46,424 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:32:47,320 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:32:51,391 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:32:52,319 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:32:56,428 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:32:57,333 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:33:01,438 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:33:02,334 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:33:06,409 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:33:07,333 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:33:11,401 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:33:12,327 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:33:16,435 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:33:17,320 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:33:21,396 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:33:22,332 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:33:26,426 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:33:27,324 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:33:31,394 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:33:32,328 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:33:36,395 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:35:26,961 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:35:31,056 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:35:36,074 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:35:41,031 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:35:46,065 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:35:51,047 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:35:56,080 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:36:01,064 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:37:44,645 - basicLogger - INFO - Periodic processing has started
+2021-02-18 12:37:48,767 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:37:53,736 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 12:37:58,750 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 13:26:18,472 - basicLogger - INFO - Periodic processing has started
+2021-02-18 13:26:22,559 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 13:26:27,562 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 13:26:32,574 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 13:26:37,566 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 13:26:42,551 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 13:26:47,562 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 13:26:52,554 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 13:26:57,600 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 13:27:02,600 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 13:27:07,588 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 13:27:12,593 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 13:27:17,578 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 13:27:22,583 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 13:27:27,559 - basicLogger - ERROR - Received an error, whoops
+2021-02-18 14:14:47,649 - basicLogger - INFO - Periodic processing has started
+2021-02-18 14:14:51,827 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:14:56,755 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:15:01,736 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:15:06,764 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:15:11,736 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:15:16,736 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:15:21,763 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:15:26,722 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:15:31,735 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:15:36,770 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:15:41,764 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:15:46,734 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:15:51,769 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:15:56,769 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:16:01,743 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:16:06,722 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:16:11,749 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:16:16,721 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:16:21,730 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:16:26,716 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:16:31,736 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:16:36,748 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:16:41,763 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:16:46,749 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:16:51,749 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:16:56,746 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:17:01,710 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:17:06,729 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:17:11,728 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:17:16,721 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:17:21,717 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:17:26,763 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:17:31,720 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:17:36,717 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:17:41,717 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:17:46,734 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:17:51,715 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:17:56,748 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:18:01,717 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:18:06,720 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:18:11,714 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:18:16,730 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:18:21,713 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:18:26,705 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:18:31,744 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:18:36,765 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:18:41,739 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:18:46,730 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:18:51,706 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:18:56,711 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:19:01,709 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:19:06,701 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:19:11,695 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:19:16,715 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:19:21,728 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:19:26,718 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:19:31,719 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:19:36,736 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:19:41,721 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:19:46,723 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:19:51,714 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:19:56,723 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:20:01,715 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:20:06,711 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:20:11,730 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:20:16,721 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:20:21,717 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:20:26,712 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:20:31,762 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:20:36,762 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:20:41,705 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:20:46,698 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:20:51,741 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:20:56,712 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:21:01,721 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:21:06,699 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:21:11,713 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:21:16,710 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:21:21,711 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:21:26,704 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:21:31,724 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:21:36,719 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:21:41,701 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:21:46,722 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:21:51,716 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:21:56,723 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:22:01,716 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:22:06,739 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:22:11,727 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:22:16,739 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:22:21,758 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:22:26,744 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:22:31,752 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:22:36,719 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:22:41,760 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:22:46,763 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:22:51,732 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:33:45,999 - basicLogger - INFO - Periodic processing has started
+2021-02-18 14:33:50,131 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:33:55,089 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:34:00,099 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:34:05,102 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:34:10,092 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:34:15,105 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:34:20,076 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:34:25,079 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:34:30,102 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:34:35,127 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:34:40,117 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:34:45,122 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:34:50,100 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:34:55,107 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:35:00,091 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:35:05,110 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:35:10,099 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:35:15,073 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:35:20,090 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:35:25,096 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:35:30,058 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:35:35,076 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:35:40,110 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:35:45,111 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:35:50,135 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:35:55,123 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:36:00,104 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:36:05,080 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:36:10,125 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:36:15,069 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:36:20,091 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:36:25,117 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:36:30,124 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:36:35,090 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:36:40,076 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:36:45,067 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:36:50,067 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:36:55,055 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:37:00,076 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:37:05,093 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:37:10,095 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:37:15,086 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:37:20,097 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:37:25,102 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:37:30,134 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:37:35,084 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:37:40,067 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:37:45,125 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:37:50,088 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:37:55,091 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:38:00,091 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:38:05,104 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:38:10,089 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:38:15,068 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:38:20,049 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:38:25,115 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:38:30,064 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:38:35,108 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:38:40,087 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:38:45,117 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:38:50,114 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:38:55,124 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:39:00,096 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:39:05,081 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:39:10,059 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:39:15,079 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:39:20,146 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:39:25,081 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:39:30,099 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:39:35,100 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:39:40,115 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:39:45,099 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:39:50,081 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:39:55,108 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:40:00,071 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:40:05,085 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:40:10,107 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:40:15,087 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:40:20,106 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:40:25,121 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:40:30,108 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:40:35,096 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:40:40,095 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:40:45,073 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:40:50,101 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:40:55,097 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:41:00,087 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:41:05,062 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:41:10,099 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:41:15,051 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:41:20,093 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:41:25,110 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:41:30,080 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:41:35,085 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:41:40,100 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:41:45,095 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:41:50,089 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:41:55,087 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:42:00,078 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:42:05,078 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:42:10,060 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:42:15,051 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:42:20,055 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:42:25,059 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:42:30,078 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:42:35,084 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:42:40,104 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:42:45,099 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:42:50,071 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:42:55,071 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:43:00,053 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:43:05,094 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:43:10,110 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:43:15,114 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:43:20,082 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:43:25,100 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:43:30,086 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:43:35,066 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:43:40,073 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:43:45,059 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:43:50,092 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:43:55,070 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:44:00,110 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:44:05,092 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:44:10,077 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:44:15,111 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:44:20,085 - basicLogger - INFO - 1 items and 0 orders received.
+2021-02-18 14:44:25,979 - basicLogger - INFO - 381 items and 180 orders received.
+2021-02-18 14:44:30,312 - basicLogger - INFO - 615 items and 838 orders received.
+2021-02-18 14:44:35,326 - basicLogger - INFO - 926 items and 1000 orders received.
+2021-02-18 14:44:40,428 - basicLogger - INFO - 1610 items and 1463 orders received.
+2021-02-18 14:44:45,527 - basicLogger - INFO - 1630 items and 2000 orders received.
+2021-02-18 14:44:50,573 - basicLogger - INFO - 2354 items and 2039 orders received.
+2021-02-18 14:44:55,773 - basicLogger - INFO - 2615 items and 2751 orders received.
+2021-02-18 14:45:00,857 - basicLogger - INFO - 2792 items and 3000 orders received.
+2021-02-18 14:45:05,932 - basicLogger - INFO - 3381 items and 3217 orders received.
+2021-02-18 14:45:11,065 - basicLogger - INFO - 3615 items and 3949 orders received.
+2021-02-18 14:45:21,257 - basicLogger - INFO - 4596 items and 4478 orders received.
+2021-02-18 14:45:31,515 - basicLogger - INFO - 5241 items and 5105 orders received.
+2021-02-18 14:45:48,225 - basicLogger - INFO - 5856 items and 6076 orders received.
+2021-02-18 14:45:57,884 - basicLogger - INFO - 6630 items and 6741 orders received.
+2021-02-18 14:46:08,323 - basicLogger - INFO - 7356 items and 7495 orders received.
+2021-02-18 14:46:16,230 - basicLogger - INFO - 7621 items and 7587 orders received.
+2021-02-18 14:46:26,057 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:46:36,109 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:46:46,076 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:46:56,140 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:47:06,116 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:47:16,095 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:47:26,108 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:47:36,132 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:47:46,102 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:47:56,065 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:48:06,073 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:48:16,107 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:48:26,076 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:48:36,108 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:48:46,048 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:48:56,035 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:49:06,050 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:49:16,151 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:49:26,111 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:49:36,097 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:49:46,085 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:49:56,127 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:50:06,251 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:50:16,179 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:50:26,215 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:50:36,073 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:50:46,221 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:50:56,141 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:51:06,066 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:59:02,206 - basicLogger - INFO - Periodic processing has started
+2021-02-18 14:59:07,319 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:59:17,230 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:59:35,929 - basicLogger - INFO - Periodic processing has started
+2021-02-18 14:59:41,101 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 14:59:51,140 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:00:01,098 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:00:11,151 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:00:21,181 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:00:31,111 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:00:40,971 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:00:51,036 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:01:04,043 - basicLogger - INFO - Periodic processing has started
+2021-02-18 15:01:09,118 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:01:19,138 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:01:29,334 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:02:30,961 - basicLogger - INFO - Periodic processing has started
+2021-02-18 15:02:36,140 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:02:46,152 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:21:04,699 - basicLogger - INFO - Periodic processing has started
+2021-02-18 15:21:09,781 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:21:19,780 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:21:29,856 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:21:40,095 - basicLogger - INFO - Periodic processing has started
+2021-02-18 15:21:45,224 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:21:55,180 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:22:41,785 - basicLogger - INFO - Periodic processing has started
+2021-02-18 15:22:46,859 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:22:56,845 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:23:06,889 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:23:16,847 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:23:26,800 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:24:43,065 - basicLogger - INFO - Periodic processing has started
+2021-02-18 15:24:48,121 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:24:58,148 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:25:08,218 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:25:15,742 - basicLogger - INFO - Periodic processing has started
+2021-02-18 15:25:20,881 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:25:30,810 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:33:25,893 - basicLogger - INFO - Periodic processing has started
+2021-02-18 15:33:31,014 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:33:41,055 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:33:51,042 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:34:03,258 - basicLogger - INFO - 7622 items and 7587 orders received.
+2021-02-18 15:34:11,344 - basicLogger - INFO - 8276 items and 8048 orders received.
+2021-02-18 15:34:23,029 - basicLogger - INFO - 8337 items and 8587 orders received.
+2021-02-18 15:34:31,455 - basicLogger - INFO - 9253 items and 8727 orders received.
+2021-02-18 15:34:41,207 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:34:51,273 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:35:01,364 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:35:11,291 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:35:21,234 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:35:31,167 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:35:41,147 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:35:51,279 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:36:01,171 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:36:11,194 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:36:21,225 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:36:31,311 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:36:45,108 - basicLogger - INFO - Periodic processing has started
+2021-02-18 15:36:50,436 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:37:00,617 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:37:08,090 - basicLogger - INFO - Periodic processing has started
+2021-02-18 15:37:13,355 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:37:23,435 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:37:33,552 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:37:41,017 - basicLogger - INFO - Periodic processing has started
+2021-02-18 15:37:46,357 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:37:56,300 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:38:06,448 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:38:16,374 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:38:26,334 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:38:36,272 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:38:51,841 - basicLogger - INFO - Periodic processing has started
+2021-02-18 15:38:57,215 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:39:08,831 - basicLogger - INFO - Periodic processing has started
+2021-02-18 15:39:14,057 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:39:24,200 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:39:34,192 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:39:44,037 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:39:54,100 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:40:04,049 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:40:14,205 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:40:24,018 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:40:34,033 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:40:44,052 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:40:54,026 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:41:04,161 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:41:14,202 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:41:24,294 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:41:34,134 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:41:44,142 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:41:54,065 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:42:04,113 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:42:14,251 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:42:24,114 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:42:34,209 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:42:44,190 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:42:51,022 - basicLogger - INFO - Periodic processing has started
+2021-02-18 15:42:56,270 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:43:06,287 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:43:16,339 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:43:26,235 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:43:36,304 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:43:46,264 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:43:56,268 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:44:06,280 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:44:16,264 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:44:26,293 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:44:36,247 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:44:46,236 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:44:56,365 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:45:06,388 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:45:16,413 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:45:26,294 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:45:36,215 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:45:46,242 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:45:56,362 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:46:06,224 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:46:16,287 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:46:26,325 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-02-18 15:46:36,280 - basicLogger - INFO - 9256 items and 8727 orders received.

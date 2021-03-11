@@ -1,0 +1,86 @@
+openapi: 3.0.0
+info:
+  description: This is an API for a drink warehouse to help export and import drinks
+  version: "1.0.0"
+  title: Simple Inventory API
+tags:
+  - name: admins
+    description: import ingredients
+  - name: clients
+    description: export drinks
+paths:
+  /inventory/purchase:
+    post:
+      tags:
+        - admins
+      summary: adds ingredient to inventory
+      operationId: app.addInventory
+      description: Adds an ingredient to the system
+      responses:
+        '201':
+          description: item created
+        '400':
+          description: 'invalid input, object invalid'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Drink'
+        description: Inventory item to add to list of items in stock
+    
+    
+  /orders:
+    post:
+      tags:
+        - clients
+      summary: adds ingredient to inventory
+      operationId: app.addProfit
+      description: Adds an order to the system
+      responses:
+        '201':
+          description: order added
+        '400':
+          description: 'invalid input, object invalid'
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Order'
+        description: sell order
+
+    
+
+components:
+  schemas:
+    Drink:
+      type: object
+      required:
+        - name
+        - contents
+        - price
+      properties:
+        name:
+          type: string
+          example: Cola Coka
+        price:
+          type: number
+          example: 25
+        contents:
+          type: string
+          example: water, sugar
+    Order:
+      required:
+        - companyName
+        - quantity
+        - drink
+      properties:
+        companyName:
+          type: string
+          example: McRonalds
+        quantity:
+          type: integer
+          example: 25
+        drink:
+          type: string
+          example: Cola Coka
+      type: object

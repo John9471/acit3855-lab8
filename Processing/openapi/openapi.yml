@@ -1,0 +1,49 @@
+openapi: 3.0.0
+info:
+  description: This API provides event stats
+  version: "1.0.0"
+  title: Stats API
+  contact:
+    email: mmulder10@bcit.ca
+paths:
+  /stats:
+    get:
+      summary: Gets the event stats
+      operationId: app.getStats
+      description: Gets Blood Pressure and Heart Rate processsed statistics
+      responses:
+        '200':
+          description: Successfully returned a list of blood pressure events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/Drink'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    Drink:
+      type: object
+      required:
+        - name
+        - contents
+        - price
+      properties:
+        name:
+          type: string
+          example: Cola Coka
+        price:
+          type: number
+          example: 25
+        contents:
+          type: string
+          example: water, sugar

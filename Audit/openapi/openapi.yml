@@ -1,0 +1,120 @@
+openapi: 3.0.0
+info:
+  description: This API provides audit info
+  version: "1.0.0"
+  title: Audit API
+  contact:
+    email: mmulder10@bcit.ca
+paths:
+  /inventory/purchase:
+    get:
+      summary: gets a inventory item from history
+      operationId: app.getInventory
+      description: gets a inventory item from history
+      parameters:
+        - name: index
+          in: query
+          description: Gets the item at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned an item
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/Drink'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  /orders:
+    get:
+      summary: gets a profit item from history
+      operationId: app.getProfit
+      description: gets a profit item from history
+      parameters:
+        - name: index
+          in: query
+          description: Gets the item at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned an item
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/Order'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    Drink:
+      type: object
+      required:
+        - name
+        - contents
+        - price
+      properties:
+        name:
+          type: string
+          example: Cola Coka
+        price:
+          type: number
+          example: 25
+        contents:
+          type: string
+          example: water, sugar
+    Order:
+      required:
+        - companyName
+        - quantity
+        - drink
+      properties:
+        companyName:
+          type: string
+          example: McRonalds
+        quantity:
+          type: integer
+          example: 25
+        drink:
+          type: string
+          example: Cola Coka
+      type: object

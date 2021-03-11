@@ -1,0 +1,79 @@
+2021-03-04 00:58:12,461 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 00:58:13,472 - basicLogger - ERROR - Could not find inventory at index 1
+2021-03-04 00:58:15,426 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 00:58:16,426 - basicLogger - ERROR - Could not find inventory at index 1
+2021-03-04 00:58:20,883 - basicLogger - INFO - Retrieving inventory at index 10
+2021-03-04 00:58:21,897 - basicLogger - ERROR - Could not find inventory at index 10
+2021-03-04 00:58:56,615 - basicLogger - INFO - Retrieving inventory at index 10
+2021-03-04 00:58:57,629 - basicLogger - ERROR - Could not find inventory at index 10
+2021-03-04 00:59:08,365 - basicLogger - INFO - Retrieving inventory at index 10
+2021-03-04 00:59:09,372 - basicLogger - ERROR - Could not find inventory at index 10
+2021-03-04 00:59:14,353 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 00:59:15,369 - basicLogger - ERROR - Could not find inventory at index 1
+2021-03-04 00:59:34,361 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 00:59:35,370 - basicLogger - ERROR - Could not find profit at index 1
+2021-03-04 01:00:06,353 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:00:07,361 - basicLogger - ERROR - Could not find profit at index 1
+2021-03-04 01:00:16,281 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:00:17,282 - basicLogger - ERROR - Could not find inventory at index 1
+2021-03-04 01:00:23,894 - basicLogger - INFO - Retrieving inventory at index 0
+2021-03-04 01:00:24,908 - basicLogger - ERROR - Could not find inventory at index 0
+2021-03-04 01:02:08,483 - basicLogger - INFO - Retrieving inventory at index 0
+2021-03-04 01:02:09,497 - basicLogger - ERROR - Could not find inventory at index 0
+2021-03-04 01:02:14,119 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:02:15,122 - basicLogger - ERROR - Could not find inventory at index 1
+2021-03-04 01:03:19,036 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:03:20,050 - basicLogger - ERROR - Could not find inventory at index 1
+2021-03-04 01:03:31,357 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:03:32,361 - basicLogger - ERROR - Could not find inventory at index 1
+2021-03-04 01:04:22,393 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:04:23,409 - basicLogger - ERROR - Could not find inventory at index 1
+2021-03-04 01:04:33,650 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:04:34,659 - basicLogger - ERROR - Could not find inventory at index 1
+2021-03-04 01:09:05,787 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:09:46,105 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:09:54,511 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:09:57,687 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:10:14,915 - basicLogger - INFO - Retrieving inventory at index 1000
+2021-03-04 01:10:22,647 - basicLogger - INFO - Retrieving inventory at index 5000
+2021-03-04 01:11:03,181 - basicLogger - INFO - Retrieving inventory at index 5000
+2021-03-04 01:12:02,599 - basicLogger - INFO - Retrieving inventory at index 5000
+2021-03-04 01:12:10,134 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:12:18,313 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:12:38,427 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:12:39,433 - basicLogger - ERROR - Could not find profit at index 1
+2021-03-04 01:13:58,051 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 01:13:59,063 - basicLogger - ERROR - Could not find profit at index 1
+2021-03-04 01:14:19,894 - basicLogger - INFO - Retrieving inventory at index 1000
+2021-03-04 01:14:20,900 - basicLogger - ERROR - Could not find profit at index 1000
+2021-03-04 01:14:32,241 - basicLogger - INFO - Retrieving inventory at index 1000
+2021-03-04 01:14:33,255 - basicLogger - ERROR - Could not find profit at index 1000
+2021-03-04 08:35:13,712 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 08:35:26,990 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 08:35:29,975 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 08:35:32,946 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 08:35:37,861 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 08:35:52,399 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 08:38:07,931 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 08:38:35,844 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 08:43:39,168 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 08:43:44,368 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 08:45:00,203 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 08:47:14,642 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 08:47:29,207 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 08:47:38,372 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 08:59:10,767 - basicLogger - INFO - Retrieving inventory at index 1000
+2021-03-04 08:59:11,777 - basicLogger - ERROR - Could not find profit at index 1000
+2021-03-04 08:59:16,821 - basicLogger - INFO - Retrieving inventory at index 5
+2021-03-04 08:59:17,836 - basicLogger - ERROR - Could not find profit at index 5
+2021-03-04 08:59:27,575 - basicLogger - INFO - Retrieving inventory at index 3
+2021-03-04 08:59:28,581 - basicLogger - ERROR - Could not find profit at index 3
+2021-03-04 08:59:38,053 - basicLogger - INFO - Retrieving inventory at index 2
+2021-03-04 08:59:39,056 - basicLogger - ERROR - Could not find profit at index 2
+2021-03-04 08:59:47,049 - basicLogger - INFO - Retrieving inventory at index 22
+2021-03-04 08:59:48,052 - basicLogger - ERROR - Could not find profit at index 22
+2021-03-04 09:00:20,915 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 09:00:25,950 - basicLogger - INFO - Retrieving inventory at index 20
+2021-03-04 15:24:52,949 - basicLogger - INFO - Retrieving inventory at index 1
+2021-03-04 15:25:23,585 - basicLogger - INFO - Retrieving inventory at index 100
+2021-03-04 15:26:29,567 - basicLogger - INFO - Retrieving inventory at index 100000
