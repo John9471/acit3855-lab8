@@ -545,3 +545,405 @@
 2021-02-18 15:46:16,287 - basicLogger - INFO - 9256 items and 8727 orders received.
 2021-02-18 15:46:26,325 - basicLogger - INFO - 9256 items and 8727 orders received.
 2021-02-18 15:46:36,280 - basicLogger - INFO - 9256 items and 8727 orders received.
+2021-03-27 12:26:30,884 - basicLogger - INFO - Periodic processing has started
+2021-03-27 12:28:10,710 - basicLogger - INFO - Periodic processing has started
+2021-03-27 12:28:16,108 - basicLogger - INFO - Periodic processing has started
+2021-03-27 12:29:06,839 - basicLogger - ERROR - what?
+2021-03-27 12:29:06,839 - basicLogger - ERROR - what?
+2021-03-27 12:29:15,004 - basicLogger - ERROR - what?
+2021-03-27 12:29:15,399 - basicLogger - ERROR - what?
+2021-03-27 12:29:20,024 - basicLogger - ERROR - what?
+2021-03-27 12:29:20,418 - basicLogger - ERROR - what?
+2021-03-27 12:29:25,027 - basicLogger - ERROR - what?
+2021-03-27 12:29:25,416 - basicLogger - ERROR - what?
+2021-03-27 12:29:30,003 - basicLogger - ERROR - what?
+2021-03-27 12:29:30,396 - basicLogger - ERROR - what?
+2021-03-27 12:29:35,022 - basicLogger - ERROR - what?
+2021-03-27 12:29:35,410 - basicLogger - ERROR - what?
+2021-03-27 12:29:40,028 - basicLogger - ERROR - what?
+2021-03-27 12:29:40,403 - basicLogger - ERROR - what?
+2021-03-27 12:29:44,988 - basicLogger - ERROR - what?
+2021-03-27 12:29:45,406 - basicLogger - ERROR - what?
+2021-03-27 12:29:50,032 - basicLogger - ERROR - what?
+2021-03-27 12:29:50,713 - basicLogger - ERROR - what?
+2021-03-27 12:29:53,046 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 12:29:53,046 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 12:29:55,002 - basicLogger - ERROR - what?
+2021-03-27 12:29:55,389 - basicLogger - ERROR - what?
+2021-03-27 12:30:00,054 - basicLogger - ERROR - what?
+2021-03-27 12:30:00,400 - basicLogger - ERROR - what?
+2021-03-27 12:30:05,015 - basicLogger - ERROR - what?
+2021-03-27 12:30:05,300 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 2
+2021-03-27 12:30:05,301 - basicLogger - INFO - returned event "Get Stats" request id:2 with a status of 404
+2021-03-27 12:30:05,400 - basicLogger - ERROR - what?
+2021-03-27 12:30:10,022 - basicLogger - ERROR - what?
+2021-03-27 12:30:10,393 - basicLogger - ERROR - what?
+2021-03-27 12:30:15,024 - basicLogger - ERROR - what?
+2021-03-27 12:30:15,403 - basicLogger - ERROR - what?
+2021-03-27 12:30:20,015 - basicLogger - ERROR - what?
+2021-03-27 12:30:20,424 - basicLogger - ERROR - what?
+2021-03-27 12:30:25,023 - basicLogger - ERROR - what?
+2021-03-27 12:30:25,418 - basicLogger - ERROR - what?
+2021-03-27 12:30:30,034 - basicLogger - ERROR - what?
+2021-03-27 12:30:30,409 - basicLogger - ERROR - what?
+2021-03-27 12:30:35,024 - basicLogger - ERROR - what?
+2021-03-27 12:30:35,401 - basicLogger - ERROR - what?
+2021-03-27 12:30:40,414 - basicLogger - ERROR - what?
+2021-03-27 12:30:41,109 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 12:30:41,109 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 12:30:45,399 - basicLogger - ERROR - what?
+2021-03-27 12:30:50,403 - basicLogger - ERROR - what?
+2021-03-27 12:30:55,391 - basicLogger - ERROR - what?
+2021-03-27 12:31:00,401 - basicLogger - ERROR - what?
+2021-03-27 12:31:05,421 - basicLogger - ERROR - what?
+2021-03-27 12:31:10,414 - basicLogger - ERROR - what?
+2021-03-27 12:31:15,386 - basicLogger - ERROR - what?
+2021-03-27 12:31:26,925 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 2
+2021-03-27 12:31:26,926 - basicLogger - INFO - returned event "Get Stats" request id:2 with a status of 404
+2021-03-27 12:31:34,750 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 3
+2021-03-27 12:31:34,751 - basicLogger - INFO - returned event "Get Stats" request id:3 with a status of 404
+2021-03-27 12:32:06,966 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 4
+2021-03-27 12:32:06,966 - basicLogger - INFO - returned event "Get Stats" request id:4 with a status of 404
+2021-03-27 12:33:07,241 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 5
+2021-03-27 12:33:07,241 - basicLogger - INFO - returned event "Get Stats" request id:5 with a status of 404
+2021-03-27 12:33:36,438 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 6
+2021-03-27 12:33:36,438 - basicLogger - INFO - returned event "Get Stats" request id:6 with a status of 404
+2021-03-27 12:33:47,953 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 7
+2021-03-27 12:33:47,954 - basicLogger - INFO - returned event "Get Stats" request id:7 with a status of 404
+2021-03-27 12:42:17,020 - basicLogger - INFO - Periodic processing has started
+2021-03-27 12:42:51,812 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 12:42:51,812 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 12:43:27,206 - basicLogger - INFO - Periodic processing has started
+2021-03-27 12:43:53,862 - basicLogger - INFO - Periodic processing has started
+2021-03-27 12:45:03,067 - basicLogger - INFO - Periodic processing has started
+2021-03-27 12:47:27,440 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 12:47:27,441 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 12:47:41,094 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 12:47:41,095 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 12:48:07,505 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 12:48:07,506 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 12:48:12,260 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 12:48:12,260 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 12:48:16,929 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 2
+2021-03-27 12:48:16,929 - basicLogger - INFO - returned event "Get Stats" request id:2 with a status of 404
+2021-03-27 12:54:34,030 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 12:54:34,030 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 12:54:50,584 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 12:54:50,585 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 12:56:20,596 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 12:56:20,597 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 12:56:32,218 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 12:56:32,218 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 13:06:16,055 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 2
+2021-03-27 13:06:16,055 - basicLogger - INFO - returned event "Get Stats" request id:2 with a status of 404
+2021-03-27 15:37:42,482 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 15:37:42,482 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 15:37:52,127 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 15:37:52,127 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 15:38:08,039 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 2
+2021-03-27 15:38:08,039 - basicLogger - INFO - returned event "Get Stats" request id:2 with a status of 404
+2021-03-27 15:38:20,212 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 15:38:20,220 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 15:38:28,662 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 15:38:28,663 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 15:56:06,292 - basicLogger - INFO - Periodic processing has started
+2021-03-27 15:57:51,874 - basicLogger - INFO - Periodic processing has started
+2021-03-27 15:58:24,844 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 15:58:24,844 - basicLogger - INFO - returned event "Get Stats" request id:1 with a status of 404
+2021-03-27 15:58:27,195 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 2
+2021-03-27 15:58:27,196 - basicLogger - INFO - returned event "Get Stats" request id:2 with a status of 404
+2021-03-27 15:58:29,548 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 3
+2021-03-27 15:58:29,548 - basicLogger - INFO - returned event "Get Stats" request id:3 with a status of 404
+2021-03-27 15:58:31,900 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 4
+2021-03-27 15:58:31,901 - basicLogger - INFO - returned event "Get Stats" request id:4 with a status of 404
+2021-03-27 15:58:34,259 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 5
+2021-03-27 15:58:34,260 - basicLogger - INFO - returned event "Get Stats" request id:5 with a status of 404
+2021-03-27 15:58:36,610 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 6
+2021-03-27 15:58:36,611 - basicLogger - INFO - returned event "Get Stats" request id:6 with a status of 404
+2021-03-27 15:58:38,962 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 7
+2021-03-27 15:58:38,962 - basicLogger - INFO - returned event "Get Stats" request id:7 with a status of 404
+2021-03-27 15:58:41,305 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 8
+2021-03-27 15:58:41,305 - basicLogger - INFO - returned event "Get Stats" request id:8 with a status of 404
+2021-03-27 15:58:43,662 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 9
+2021-03-27 15:58:43,663 - basicLogger - INFO - returned event "Get Stats" request id:9 with a status of 404
+2021-03-27 15:58:48,517 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 10
+2021-03-27 15:58:48,518 - basicLogger - INFO - returned event "Get Stats" request id:10 with a status of 404
+2021-03-27 15:58:50,575 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 11
+2021-03-27 15:58:50,575 - basicLogger - INFO - returned event "Get Stats" request id:11 with a status of 404
+2021-03-27 15:58:52,932 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 12
+2021-03-27 15:58:52,932 - basicLogger - INFO - returned event "Get Stats" request id:12 with a status of 404
+2021-03-27 15:58:55,635 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 13
+2021-03-27 15:58:55,636 - basicLogger - INFO - returned event "Get Stats" request id:13 with a status of 404
+2021-03-27 15:58:57,701 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 14
+2021-03-27 15:58:57,702 - basicLogger - INFO - returned event "Get Stats" request id:14 with a status of 404
+2021-03-27 15:59:00,072 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 15
+2021-03-27 15:59:00,073 - basicLogger - INFO - returned event "Get Stats" request id:15 with a status of 404
+2021-03-27 15:59:02,423 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 16
+2021-03-27 15:59:02,424 - basicLogger - INFO - returned event "Get Stats" request id:16 with a status of 404
+2021-03-27 15:59:04,764 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 17
+2021-03-27 15:59:04,765 - basicLogger - INFO - returned event "Get Stats" request id:17 with a status of 404
+2021-03-27 15:59:07,134 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 18
+2021-03-27 15:59:07,135 - basicLogger - INFO - returned event "Get Stats" request id:18 with a status of 404
+2021-03-27 15:59:09,487 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 19
+2021-03-27 15:59:09,487 - basicLogger - INFO - returned event "Get Stats" request id:19 with a status of 404
+2021-03-27 15:59:11,847 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 20
+2021-03-27 15:59:11,847 - basicLogger - INFO - returned event "Get Stats" request id:20 with a status of 404
+2021-03-27 15:59:14,200 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 21
+2021-03-27 15:59:14,200 - basicLogger - INFO - returned event "Get Stats" request id:21 with a status of 404
+2021-03-27 15:59:16,558 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 22
+2021-03-27 15:59:16,559 - basicLogger - INFO - returned event "Get Stats" request id:22 with a status of 404
+2021-03-27 15:59:18,911 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 23
+2021-03-27 15:59:18,912 - basicLogger - INFO - returned event "Get Stats" request id:23 with a status of 404
+2021-03-27 15:59:21,257 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 24
+2021-03-27 15:59:21,258 - basicLogger - INFO - returned event "Get Stats" request id:24 with a status of 404
+2021-03-27 15:59:23,616 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 25
+2021-03-27 15:59:23,617 - basicLogger - INFO - returned event "Get Stats" request id:25 with a status of 404
+2021-03-27 15:59:25,984 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 26
+2021-03-27 15:59:25,984 - basicLogger - INFO - returned event "Get Stats" request id:26 with a status of 404
+2021-03-27 15:59:28,342 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 27
+2021-03-27 15:59:28,342 - basicLogger - INFO - returned event "Get Stats" request id:27 with a status of 404
+2021-03-27 15:59:30,700 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 28
+2021-03-27 15:59:30,701 - basicLogger - INFO - returned event "Get Stats" request id:28 with a status of 404
+2021-03-27 15:59:33,057 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 29
+2021-03-27 15:59:33,057 - basicLogger - INFO - returned event "Get Stats" request id:29 with a status of 404
+2021-03-27 15:59:35,420 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 30
+2021-03-27 15:59:35,421 - basicLogger - INFO - returned event "Get Stats" request id:30 with a status of 404
+2021-03-27 15:59:37,771 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 31
+2021-03-27 15:59:37,771 - basicLogger - INFO - returned event "Get Stats" request id:31 with a status of 404
+2021-03-27 15:59:40,128 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 32
+2021-03-27 15:59:40,129 - basicLogger - INFO - returned event "Get Stats" request id:32 with a status of 404
+2021-03-27 15:59:42,485 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 33
+2021-03-27 15:59:42,486 - basicLogger - INFO - returned event "Get Stats" request id:33 with a status of 404
+2021-03-27 15:59:44,838 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 34
+2021-03-27 15:59:44,838 - basicLogger - INFO - returned event "Get Stats" request id:34 with a status of 404
+2021-03-27 15:59:47,198 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 35
+2021-03-27 15:59:47,199 - basicLogger - INFO - returned event "Get Stats" request id:35 with a status of 404
+2021-03-27 15:59:49,559 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 36
+2021-03-27 15:59:49,560 - basicLogger - INFO - returned event "Get Stats" request id:36 with a status of 404
+2021-03-27 15:59:51,909 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 37
+2021-03-27 15:59:51,910 - basicLogger - INFO - returned event "Get Stats" request id:37 with a status of 404
+2021-03-27 15:59:54,260 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 38
+2021-03-27 15:59:54,261 - basicLogger - INFO - returned event "Get Stats" request id:38 with a status of 404
+2021-03-27 15:59:56,622 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 39
+2021-03-27 15:59:56,624 - basicLogger - INFO - returned event "Get Stats" request id:39 with a status of 404
+2021-03-27 15:59:58,990 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 40
+2021-03-27 15:59:58,990 - basicLogger - INFO - returned event "Get Stats" request id:40 with a status of 404
+2021-03-27 16:00:01,329 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 41
+2021-03-27 16:00:01,329 - basicLogger - INFO - returned event "Get Stats" request id:41 with a status of 404
+2021-03-27 16:00:03,700 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 42
+2021-03-27 16:00:03,700 - basicLogger - INFO - returned event "Get Stats" request id:42 with a status of 404
+2021-03-27 16:00:06,072 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 43
+2021-03-27 16:00:06,073 - basicLogger - INFO - returned event "Get Stats" request id:43 with a status of 404
+2021-03-27 16:00:08,437 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 44
+2021-03-27 16:00:08,438 - basicLogger - INFO - returned event "Get Stats" request id:44 with a status of 404
+2021-03-27 16:00:10,793 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 45
+2021-03-27 16:00:10,794 - basicLogger - INFO - returned event "Get Stats" request id:45 with a status of 404
+2021-03-27 16:00:13,160 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 46
+2021-03-27 16:00:13,160 - basicLogger - INFO - returned event "Get Stats" request id:46 with a status of 404
+2021-03-27 16:00:15,523 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 47
+2021-03-27 16:00:15,524 - basicLogger - INFO - returned event "Get Stats" request id:47 with a status of 404
+2021-03-27 16:00:17,893 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 48
+2021-03-27 16:00:17,894 - basicLogger - INFO - returned event "Get Stats" request id:48 with a status of 404
+2021-03-27 16:00:20,256 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 49
+2021-03-27 16:00:20,256 - basicLogger - INFO - returned event "Get Stats" request id:49 with a status of 404
+2021-03-27 16:00:22,610 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 50
+2021-03-27 16:00:22,610 - basicLogger - INFO - returned event "Get Stats" request id:50 with a status of 404
+2021-03-27 16:00:24,961 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 51
+2021-03-27 16:00:24,961 - basicLogger - INFO - returned event "Get Stats" request id:51 with a status of 404
+2021-03-27 16:00:27,319 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 52
+2021-03-27 16:00:27,319 - basicLogger - INFO - returned event "Get Stats" request id:52 with a status of 404
+2021-03-27 16:00:29,676 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 53
+2021-03-27 16:00:29,676 - basicLogger - INFO - returned event "Get Stats" request id:53 with a status of 404
+2021-03-27 16:00:32,025 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 54
+2021-03-27 16:00:32,026 - basicLogger - INFO - returned event "Get Stats" request id:54 with a status of 404
+2021-03-27 16:00:34,362 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 55
+2021-03-27 16:00:34,363 - basicLogger - INFO - returned event "Get Stats" request id:55 with a status of 404
+2021-03-27 16:00:41,123 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 56
+2021-03-27 16:00:41,124 - basicLogger - INFO - returned event "Get Stats" request id:56 with a status of 404
+2021-03-27 16:00:43,496 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 57
+2021-03-27 16:00:43,496 - basicLogger - INFO - returned event "Get Stats" request id:57 with a status of 404
+2021-03-27 16:00:45,845 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 58
+2021-03-27 16:00:45,846 - basicLogger - INFO - returned event "Get Stats" request id:58 with a status of 404
+2021-03-27 16:00:48,197 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 59
+2021-03-27 16:00:48,198 - basicLogger - INFO - returned event "Get Stats" request id:59 with a status of 404
+2021-03-27 16:00:50,546 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 60
+2021-03-27 16:00:50,547 - basicLogger - INFO - returned event "Get Stats" request id:60 with a status of 404
+2021-03-27 16:00:52,901 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 61
+2021-03-27 16:00:52,902 - basicLogger - INFO - returned event "Get Stats" request id:61 with a status of 404
+2021-03-27 16:00:55,259 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 62
+2021-03-27 16:00:55,260 - basicLogger - INFO - returned event "Get Stats" request id:62 with a status of 404
+2021-03-27 16:00:57,606 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 63
+2021-03-27 16:00:57,607 - basicLogger - INFO - returned event "Get Stats" request id:63 with a status of 404
+2021-03-27 16:00:59,959 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 64
+2021-03-27 16:00:59,959 - basicLogger - INFO - returned event "Get Stats" request id:64 with a status of 404
+2021-03-27 16:01:02,316 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 65
+2021-03-27 16:01:02,317 - basicLogger - INFO - returned event "Get Stats" request id:65 with a status of 404
+2021-03-27 16:01:04,682 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 66
+2021-03-27 16:01:04,684 - basicLogger - INFO - returned event "Get Stats" request id:66 with a status of 404
+2021-03-27 16:01:07,056 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 67
+2021-03-27 16:01:07,056 - basicLogger - INFO - returned event "Get Stats" request id:67 with a status of 404
+2021-03-27 16:01:09,406 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 68
+2021-03-27 16:01:09,406 - basicLogger - INFO - returned event "Get Stats" request id:68 with a status of 404
+2021-03-27 16:01:11,758 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 69
+2021-03-27 16:01:11,758 - basicLogger - INFO - returned event "Get Stats" request id:69 with a status of 404
+2021-03-27 16:01:14,128 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 70
+2021-03-27 16:01:14,129 - basicLogger - INFO - returned event "Get Stats" request id:70 with a status of 404
+2021-03-27 16:01:16,480 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 71
+2021-03-27 16:01:16,480 - basicLogger - INFO - returned event "Get Stats" request id:71 with a status of 404
+2021-03-27 16:01:18,836 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 72
+2021-03-27 16:01:18,837 - basicLogger - INFO - returned event "Get Stats" request id:72 with a status of 404
+2021-03-27 16:01:21,192 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 73
+2021-03-27 16:01:21,192 - basicLogger - INFO - returned event "Get Stats" request id:73 with a status of 404
+2021-03-27 16:01:23,554 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 74
+2021-03-27 16:01:23,555 - basicLogger - INFO - returned event "Get Stats" request id:74 with a status of 404
+2021-03-27 16:01:25,915 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 75
+2021-03-27 16:01:25,917 - basicLogger - INFO - returned event "Get Stats" request id:75 with a status of 404
+2021-03-27 16:01:28,278 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 76
+2021-03-27 16:01:28,279 - basicLogger - INFO - returned event "Get Stats" request id:76 with a status of 404
+2021-03-27 16:01:30,636 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 77
+2021-03-27 16:01:30,636 - basicLogger - INFO - returned event "Get Stats" request id:77 with a status of 404
+2021-03-27 16:01:32,988 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 78
+2021-03-27 16:01:32,989 - basicLogger - INFO - returned event "Get Stats" request id:78 with a status of 404
+2021-03-27 16:01:35,354 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 79
+2021-03-27 16:01:35,355 - basicLogger - INFO - returned event "Get Stats" request id:79 with a status of 404
+2021-03-27 16:01:37,710 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 80
+2021-03-27 16:01:37,711 - basicLogger - INFO - returned event "Get Stats" request id:80 with a status of 404
+2021-03-27 16:01:40,068 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 81
+2021-03-27 16:01:40,069 - basicLogger - INFO - returned event "Get Stats" request id:81 with a status of 404
+2021-03-27 16:01:42,427 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 82
+2021-03-27 16:01:42,428 - basicLogger - INFO - returned event "Get Stats" request id:82 with a status of 404
+2021-03-27 16:01:44,804 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 83
+2021-03-27 16:01:44,805 - basicLogger - INFO - returned event "Get Stats" request id:83 with a status of 404
+2021-03-27 16:01:47,168 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 84
+2021-03-27 16:01:47,169 - basicLogger - INFO - returned event "Get Stats" request id:84 with a status of 404
+2021-03-27 16:01:49,538 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 85
+2021-03-27 16:01:49,539 - basicLogger - INFO - returned event "Get Stats" request id:85 with a status of 404
+2021-03-27 16:01:51,892 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 86
+2021-03-27 16:01:51,893 - basicLogger - INFO - returned event "Get Stats" request id:86 with a status of 404
+2021-03-27 16:01:54,259 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 87
+2021-03-27 16:01:54,260 - basicLogger - INFO - returned event "Get Stats" request id:87 with a status of 404
+2021-03-27 16:01:56,606 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 88
+2021-03-27 16:01:56,607 - basicLogger - INFO - returned event "Get Stats" request id:88 with a status of 404
+2021-03-27 16:01:58,948 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 89
+2021-03-27 16:01:58,950 - basicLogger - INFO - returned event "Get Stats" request id:89 with a status of 404
+2021-03-27 16:02:01,308 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 90
+2021-03-27 16:02:01,308 - basicLogger - INFO - returned event "Get Stats" request id:90 with a status of 404
+2021-03-27 16:02:03,677 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 91
+2021-03-27 16:02:03,678 - basicLogger - INFO - returned event "Get Stats" request id:91 with a status of 404
+2021-03-27 16:02:06,044 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 92
+2021-03-27 16:02:06,045 - basicLogger - INFO - returned event "Get Stats" request id:92 with a status of 404
+2021-03-27 16:02:08,389 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 93
+2021-03-27 16:02:08,390 - basicLogger - INFO - returned event "Get Stats" request id:93 with a status of 404
+2021-03-27 16:02:10,739 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 94
+2021-03-27 16:02:10,739 - basicLogger - INFO - returned event "Get Stats" request id:94 with a status of 404
+2021-03-27 16:02:13,083 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 95
+2021-03-27 16:02:13,083 - basicLogger - INFO - returned event "Get Stats" request id:95 with a status of 404
+2021-03-27 16:02:15,427 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 96
+2021-03-27 16:02:15,427 - basicLogger - INFO - returned event "Get Stats" request id:96 with a status of 404
+2021-03-27 16:02:17,790 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 97
+2021-03-27 16:02:17,790 - basicLogger - INFO - returned event "Get Stats" request id:97 with a status of 404
+2021-03-27 16:02:20,146 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 98
+2021-03-27 16:02:20,147 - basicLogger - INFO - returned event "Get Stats" request id:98 with a status of 404
+2021-03-27 16:02:22,508 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 99
+2021-03-27 16:02:22,509 - basicLogger - INFO - returned event "Get Stats" request id:99 with a status of 404
+2021-03-27 16:02:24,863 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 100
+2021-03-27 16:02:24,864 - basicLogger - INFO - returned event "Get Stats" request id:100 with a status of 404
+2021-03-27 16:02:27,211 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 101
+2021-03-27 16:02:27,212 - basicLogger - INFO - returned event "Get Stats" request id:101 with a status of 404
+2021-03-27 16:02:29,558 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 102
+2021-03-27 16:02:29,559 - basicLogger - INFO - returned event "Get Stats" request id:102 with a status of 404
+2021-03-27 16:02:31,915 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 103
+2021-03-27 16:02:31,915 - basicLogger - INFO - returned event "Get Stats" request id:103 with a status of 404
+2021-03-27 16:02:34,264 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 104
+2021-03-27 16:02:34,265 - basicLogger - INFO - returned event "Get Stats" request id:104 with a status of 404
+2021-03-27 16:02:36,612 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 105
+2021-03-27 16:02:36,612 - basicLogger - INFO - returned event "Get Stats" request id:105 with a status of 404
+2021-03-27 16:02:38,986 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 106
+2021-03-27 16:02:38,987 - basicLogger - INFO - returned event "Get Stats" request id:106 with a status of 404
+2021-03-27 16:02:41,340 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 107
+2021-03-27 16:02:41,341 - basicLogger - INFO - returned event "Get Stats" request id:107 with a status of 404
+2021-03-27 16:02:43,707 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 108
+2021-03-27 16:02:43,708 - basicLogger - INFO - returned event "Get Stats" request id:108 with a status of 404
+2021-03-27 16:02:46,110 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 109
+2021-03-27 16:02:46,110 - basicLogger - INFO - returned event "Get Stats" request id:109 with a status of 404
+2021-03-27 16:02:48,482 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 110
+2021-03-27 16:02:48,482 - basicLogger - INFO - returned event "Get Stats" request id:110 with a status of 404
+2021-03-27 16:02:54,132 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:02:54,415 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:02:54,445 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:02:56,474 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:02:58,144 - basicLogger - INFO - Periodic processing has started
+2021-03-27 16:02:58,810 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:00,844 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:03,176 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:05,200 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:07,527 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:09,540 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:11,861 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:13,887 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:16,219 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:18,240 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:20,574 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:22,592 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:24,926 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:27,564 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:29,930 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:31,977 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:34,321 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:36,335 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:38,667 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:40,745 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:43,080 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:45,100 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:47,432 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:49,458 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:51,790 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:53,825 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:56,164 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:03:58,179 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:00,515 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:02,543 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:04,879 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:06,946 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:09,280 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:11,304 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:13,646 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:15,667 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:18,003 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:20,025 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:22,347 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:24,362 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:26,701 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:28,733 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:31,082 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:33,107 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:35,447 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:37,466 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:39,799 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:41,830 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:44,162 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:46,194 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:48,526 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:50,562 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:52,900 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:54,930 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:57,287 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:04:59,316 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:01,640 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:03,679 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:06,011 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:08,049 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:08,319 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:10,382 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:12,412 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:14,748 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:16,764 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:19,086 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:21,109 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:22,375 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:23,442 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:25,472 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:27,798 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:05:29,836 - basicLogger - INFO - revieved event "Get stats" request with a unique id of 1
+2021-03-27 16:07:54,712 - basicLogger - INFO - Periodic processing has started
+2021-03-27 16:08:26,393 - basicLogger - INFO - Periodic processing has started

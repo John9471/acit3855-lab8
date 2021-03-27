@@ -23,13 +23,16 @@ logger = logging.getLogger('basicLogger')
 loggingRN= False
 
 
-def getStats():
-    global id
-    r = requests.get(app_config['eventstore']['url'])
-    logger.info('revieved event "Get stats" request with a unique id of '+ str(id))
-    logger.info('returned event "Get Stats" request id:'+str(id)+' with a status of '+ str(r.status_code))
-    id += 1
-    return NoContent, r.status_code
+# def getStats():
+#     global id
+#     stats=""
+#     r = requests.get(app_config['eventstore']['url'])
+#     logger.info('revieved event "Get stats" request with a unique id of '+ str(id))
+#     logger.info('returned event "Get Stats" request id:'+str(id)+' with a status of '+ str(r.status_code))
+#     id += 1
+#     with open('data.json', 'r') as f:
+#         stats=json.load(f)
+#     return stats, 200
 
 
 def populate_stats():
@@ -50,7 +53,8 @@ def populate_stats():
     if r.status_code == 200 and r2.status_code == 200:
         n = len(r.json())
         n2 = len(r2.json())
-        data = {"items":n, "orders":n2, "last item": r.json()[-1], "last order": r2.json()[-1], "last updated":str(datetime.now())}
+        print(r.json(), r2.json())
+        data = {"items":n, "orders":n2, "lastitem": r.json()[-1], "lastorder": r2.json()[-1], "lastupdated":str(datetime.now())}
         logger.info(f"{n} items and {n2} orders received.")
         with open('data.json', 'w') as f:
             json.dump(data, f)
@@ -63,7 +67,9 @@ def getData():
     try:
         with open("data.json","r") as f:
             data = json.load(f)
+            print(data)
             return data, 200
+        
     except:
         return {"message": "Error"}, 400
 
@@ -82,5 +88,5 @@ app.app.config['CORS_HEADERS'] = 'Content-Type'
 
 if __name__ == "__main__":
  # run our standalone gevent server
-    init_scheduler()
+    # init_scheduler()
     app.run(port=8100, use_reloader=False)

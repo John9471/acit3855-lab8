@@ -13,6 +13,7 @@ export default function AppStats() {
             .then((result)=>{
 				console.log("Received Stats")
                 setStats(result);
+                // console.log(result.text());
                 setIsLoaded(true);
             },(error) =>{
                 setError(error)
@@ -39,18 +40,18 @@ export default function AppStats() {
 							<th>Number of Orders</th>
 						</tr>
 						<tr>
-							<td># Items: {stats['items']}</td>
+							<td># Items: {stats["items"]}</td>
 							<td># Orders: {stats['orders']}</td>
 						</tr>
 						<tr>
-							<td colspan="2">Last Item: {stats['last item']}</td>
+							<td colSpan="2">Last Item: {stats["lastitem"]["name"]}</td>
 						</tr>
 						<tr>
-							<td colspan="2">Last Order: {stats['last order']}</td>
+							<td colSpan="2">Last Order: {stats['lastorder']["drink"]}</td>
 						</tr>
 					</tbody>
                 </table>
-                <h3>Last Updated: {stats['last_updated']}</h3>
+                <h3>Last Updated: {stats['lastupdated']}</h3>
 
             </div>
         )

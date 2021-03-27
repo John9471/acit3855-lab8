@@ -9,7 +9,7 @@ paths:
   /stats:
     get:
       summary: Gets the event stats
-      operationId: app.getStats
+      operationId: app.getData
       description: Gets Blood Pressure and Heart Rate processsed statistics
       responses:
         '200':
