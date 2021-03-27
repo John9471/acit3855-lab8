@@ -8,6 +8,7 @@ import logging
 from logging import config
 from apscheduler.schedulers.background import BackgroundScheduler
 from datetime import datetime
+from flask_cors import CORS, cross_origin
 
 id = 1
 with open('openapi/app_conf.yml', 'r') as f:

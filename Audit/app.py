@@ -9,6 +9,7 @@ from logging import config
 import datetime
 import json
 from pykafka import KafkaClient 
+from flask_cors import CORS, cross_origin
 
 id = 1
 with open('openapi/app_conf.yml', 'r') as f:
@@ -68,6 +69,7 @@ def getProfit(index):
 
 app = connexion.FlaskApp(__name__, specification_dir='openapi/')
 app.add_api("openapi.yml", strict_validation=True, validate_responses=True)
-
+CORS(app.app)
+app.app.config['CORS_HEADERS'] = 'Content-Type'
 if __name__ == "__main__":
     app.run(port=8110)
